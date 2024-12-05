@@ -1,6 +1,6 @@
 {
   "name": "mcp-mermaid-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "MCP tool for converting Mermaid diagram code to image URL or file",
   "main": "dist/index.js",
